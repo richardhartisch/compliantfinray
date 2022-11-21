@@ -29,6 +29,7 @@ The support blocker allows dividing the two sections of the finger to change sel
 
 If you're interested in working with the fingers with an additional contact plane keep in mind to add an additionall "support blocker" feature to the notches.
 
+![alt text](https://github.com/[richardhartisch]/[compliantfinray]/finray_support_blocker.jpg?raw=true)
 
 
 
