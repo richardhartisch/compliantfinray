@@ -29,8 +29,19 @@ The support blocker allows dividing the two sections of the finger to change sel
 
 If you're interested in working with the fingers with an additional contact plane keep in mind to add an additionall "support blocker" feature to the notches.
 
+### Example of Support Blocker Feature in Cura:
+
 ![alt text](finray_support_blocker.jpg)
 
+
+### Sliced Finray:
+
+![alt text](finray_sliced.jpg)
+
+
+### Multiple Support Blockers for Additional Contact Surfaces:
+
+![alt text](finray_2_support_blocker.jpg)
 
 
 
