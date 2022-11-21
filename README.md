@@ -41,7 +41,7 @@ If you're interested in working with the fingers with an additional contact plan
 
 ### Multiple Support Blockers for Additional Contact Surfaces:
 
-![alt text](finray_2 support blockers.jpg)
+![alt text](finray_2_support blockers.jpg)
 
 
 
