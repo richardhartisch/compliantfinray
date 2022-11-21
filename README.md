@@ -27,6 +27,8 @@ The slicing software used was Ultimaker Cura. Here the parameters for the grippe
 For the lower connecting section of the finger different slicing settings have to be used where Cura's "support blocker" feature is applied.
 The support blocker allows dividing the two sections of the finger to change selected slicing parameters. For example, other than for the section of the fingers with the ribs, top and bottom layers are needed here. With the option "Per Model Settings" the wall/top/bottom thickness, wall line count and top/bottom layers can be changed individually for the section within the support blocker. This allows the part to be manufactured with individual settings.
 
+If you're interested in working with the fingers with an additional contact plane keep in mind to add an additionall "support blocker" feature to the notches.
+
 
 
 
