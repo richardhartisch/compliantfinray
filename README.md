@@ -1,2 +1,2 @@
-# Compliant Finray-Effect Grippers
-Compliant Finray-Effect Grippers for High-Speed Robotic Assembly of Electrical Components
+# Compliant Finray-Effect Gripper
+Compliant Finray-Effect Gripper for High-Speed Robotic Assembly of Electrical Components
